@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 
 #Sugerencia de ingresar por consola 300 o 100 iteraciones, para obtener mejores resultados.
 #Se deben utilizar las librerias numpy y matplotlib.pyplot
-
+#Benjamin Coronado, rut 21000955-8, de la sección 411
 def funcion1(n_puntos):
     puntos_x = np.random.uniform(-1, 1, n_puntos)#"Lanzar" dardos aleatorios dentro de un cuadrado de lado 2
     puntos_y = np.random.uniform(-1, 1, n_puntos)  
